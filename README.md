@@ -1,14 +1,9 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+✨ Harshvardhan: Crafting Digital Dreams into Reality ✨
+Welcome to my creative space!
+I'm Harshvardhan, a passionate Web Designer and Computer Science student at D.Y. Patil College of Engineering. My mission? To blend innovative design with robust code, building digital experiences that are as beautiful as they are functional.
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
-
-![preview img](/preview.png)
-
+🚀 My Superpowers (Skills at a Glance)
+HTML5: The bedrock of the web, built with precision. (95%)
+CSS3: Styling the digital world with flair and responsiveness. (85%)
+JavaScript: Bringing dynamic life and interactivity to every project. (65%)
+Communication: Bridging ideas, fostering collaboration, and making tech accessible. (85%)
